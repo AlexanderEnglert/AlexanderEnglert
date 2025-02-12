@@ -1,14 +1,17 @@
 <img src="./img/coding.jpg" alt="GitHub Banner" height="200px" width="100%" />
 
-<h2 align="left">Hi 👋! My name is Alexander and I'm a frontend developer from germany</h2>
+<h2 align="left">Hi my name is Alexander</h2>
+
+<div align="left">
+  <h3>I'm a frontend developer from germany</h3>
+  <span>- 🔭 I’m currently working on Linux <br></br>
+        - 🌱 I’m currently learning **Linux, Python <br></br> 
+        - 👨‍💻 All of my projects are available at [alexander-englert.de](alexander-englert.de)
+  </span>
+</div>
 
 
-###
-
-
-
-###
-
+<h3 align="left">Languages-Frameworks</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -27,11 +30,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:aenglertymail23@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+   <a href="https://www.linkedin.com/in/alexander-englert-783b8434b/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&  style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a> 
 </div>
 
 <picture>
