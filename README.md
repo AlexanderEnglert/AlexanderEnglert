@@ -1,7 +1,7 @@
 
 <img src="./img/coding.jpg" alt="GitHub Banner" height="200px" width="100%" />
 
-<h2 align="left">**Hi 👋, I'm Alexander**</h2>
+<h2 align="left">Hi 👋, I'm Alexander</h2>
 
 <div>
   <h3 align="left">A passionate Web Developer from Germany</h3>
@@ -10,7 +10,7 @@
         - 🌱 I’m currently learning Linux and Python 
   </span>
 </div>
----
+</br>
 <h3 align="left">🛠 Languages-Frameworks-Tools</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
