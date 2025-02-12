@@ -1,7 +1,6 @@
+<img src="./img/coding.jpg" alt="GitHub Banner" height="200px" width="100%" />
+
 <h2 align="left">Hi 👋! My name is Alexander and I'm a frontend developer from germany</h2>
-
-<img src="./img/coding.jpg" alt="GitHub Banner" height="400px" width="100%" />
-
 
 
 ###
